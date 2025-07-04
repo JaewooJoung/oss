@@ -318,7 +318,7 @@
                 const fileList = await response.json();
                 
                 // Clear existing options except the first one
-                fileSelector.innerHTML = '<option value="">Select a markdown file...</option>';
+                fileSelector.innerHTML = '<option value="">어떤 편인지 고르시면 됩니다...</option>';
                 
                 // Add options from the JSON list
                 fileList.forEach(item => {
