@@ -6,5 +6,12 @@
     {
         "name": "항공편",
         "link": "airline.md"
+    },
+    {
+        "name": "여행편",
+        "link": "travel.md"
     }  
+    
+    
+    
 ]
