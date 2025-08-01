@@ -10,8 +10,14 @@
     {
         "name": "여행편",
         "link": "travel.md"
-    }  
-    
-    
+    },
+    {
+        "name": "에어비엔비",
+        "link": "airbnb.md"
+    },
+    {
+        "name": "호텔",
+        "link": "hotel.md"
+    }     
     
 ]
