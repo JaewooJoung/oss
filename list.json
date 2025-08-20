@@ -18,6 +18,11 @@
     {
         "name": "호텔",
         "link": "hotel.md"
+    },
+    {
+        "name": "날씨",
+        "link": "wheather.md"
     }     
+     
     
 ]
